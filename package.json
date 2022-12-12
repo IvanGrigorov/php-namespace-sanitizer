@@ -2,7 +2,7 @@
   "name": "php-namespace-sanitizer",
   "displayName": "PHP Namespace sanitizer",
   "description": "Sanitize your PHP Namespace section",
-  "publisher": "Ivan Grigorov",
+  "publisher": "IvanGrigorov",
   "version": "0.0.1",
   "icon": "assets/php-logo-bigger.png",
   "engines": {
